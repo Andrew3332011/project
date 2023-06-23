@@ -1,0 +1,35 @@
+.nav {
+    display: flex;
+    gap: 70px;
+}
+
+ul {
+    list-style: none;
+}
+
+.contact {
+    display: flex;
+    gap: 30px;
+}
+
+header {
+    display: flex;
+    justify-content: space-around;
+    background-color: hsl(0, 0%, 78%);
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    width:300px;
+}
+
+.techskill,
+h1,
+h2,
+img,
+p {
+    margin-left: 600px;
+}
